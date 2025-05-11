@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
       greetingContainer.style.display = "none";
       document.getElementById("weather-container").style.display = "block";
     }, 1000);
-  }, 5000);
+  }, 3000);
 });
 
 function getWeather() {
